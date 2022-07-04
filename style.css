@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.color{
+    color: brown;
+}
+.contianer{
+    display: flex;
+    margin: 40px 30px;
+    width: 100%;
+}
+.width1{
+    margin-top: 200px;
+    margin-left: 70px;
+}
+.width1 h1{
+    font-size: 3rem;
+}
+.but{
+   padding: 12px 14px;
+   font-weight: 700;
+   border-radius: 10px;
+   background: #008080;
+background: linear-gradient(to left, #008080 0%, #FFFFFF 25%, #05C1FF 50%, #FFFFFF 75%, #005757 100%);
+color: red;
+}
